@@ -36,5 +36,5 @@ To use, click the <strong>"Take Survey"</strong> button to get started.  Then, e
  
  <br>
  
-  <p align="center><img src="https://packleader206.github.io/FriendFinder/app/images/screenshot_modal2.png" alt="Modal Screenshot"></p>
+ <img align="center" src="https://packleader206.github.io/FriendFinder/app/images/screenshot_modal2.png" alt="Modal Screenshot">
  
