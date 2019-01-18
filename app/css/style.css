@@ -1,2 +1,32 @@
 /* FriendFinder - style.css - UW Coding Bootcamp Week 13 Homework Assignment */
 
+.site {
+    background-image: URL("../images/wallpaper1.jpg");
+}
+
+.content {
+    background-color: rgb(129, 169, 214); 
+}
+
+#questionGroup {
+    font-size: 20px;
+}
+
+h1 {
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
+
+.form-group {
+    padding: 10px;
+}
