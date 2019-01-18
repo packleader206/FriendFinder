@@ -1,4 +1,4 @@
-# Bamazon
+# Friend Finder
 
 ## Overview:
 
