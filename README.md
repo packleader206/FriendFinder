@@ -28,13 +28,13 @@ To use, click the <strong>"Take Survey"</strong> button to get started.  Then, e
 
 ## Screenshots:
             
- <img src="https://packleader206.github.io/FriendFinder/app/images/screenshot_home.png" alt="Home Page Screenshot">
+ <img src="https://packleader206.github.io/FriendFinder/app/public/images/screenshot_home.png" alt="Home Page Screenshot">
  
  <br>
  
- <img src="https://packleader206.github.io/FriendFinder/app/images/screenshot_survey.png" alt="Survey Screenshot">
+ <img src="https://packleader206.github.io/FriendFinder/app/public/images/screenshot_survey.png" alt="Survey Screenshot">
  
  <br>
  
- <img src="https://packleader206.github.io/FriendFinder/app/images/screenshot_modal2.png" alt="Modal Screenshot">
+ <img src="https://packleader206.github.io/FriendFinder/app/public/images/screenshot_modal2.png" alt="Modal Screenshot">
  
