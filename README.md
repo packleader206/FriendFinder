@@ -19,14 +19,14 @@ Friend Finder is an app that matches the user with a friend who is most compatib
 <strong>Al Young</strong>
 <hr>
 
-## Link to Deployed App:
-
-
 ## Instructions:
 
 To use, click the <strong>"Take Survey"</strong> button to get started.  Then, enter your name and a URL link to your photo. Complete all of the questions in the survey, then hit <strong>"Submit"</strong>.  Your answers will then be evaluated against all members using our proprietary algorithm and your Best Match will be revealed.
 
-## Screenshots
+## Link to Deployed App:
+
+
+## Screenshots:
             
  <img src="https://packleader206.github.io/FriendFinder/app/images/screenshot_home.png" alt="Home Page Screenshot">
  
@@ -36,5 +36,5 @@ To use, click the <strong>"Take Survey"</strong> button to get started.  Then, e
  
  <br>
  
-  <img src="https://packleader206.github.io/FriendFinder/app/images/screenshot_modal.png" alt="Modal Screenshot">
+ <img src="https://packleader206.github.io/FriendFinder/app/images/screenshot_modal2.png" alt="Modal Screenshot">
  
