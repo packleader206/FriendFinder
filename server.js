@@ -12,6 +12,10 @@ var app = express();
 // Set port for server
 var PORT = process.env.PORT || 3000;
 
+// Use the express.static middleware to serve static content for the app from "public"
+app.use(express.static("app/public"));
+
+
 // BodyParser used for server to interpret data sent to it. (code is standard).
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));

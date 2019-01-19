@@ -24,11 +24,10 @@ module.exports = function(app) {
     var bestFriendIndex = 0;
 
     // Set variable to hold the closest matching score value calculations for each person to compare as we loop through the api to find the closest match.
-    // default set to 40, which would be the widest difference in match if one user answers values of all "1" and the other answers with values of all "5".
+    // default set to 40 to start, which would be the biggest difference in matching if one user answers values of all "1" and the other answers with values of all "5".
     var minimumDifference = 40;
 
     // In this nested for-loop, we start off with a zero difference and compare the user's scores and the scores of each user in the array, one set at a time
-    
     for(var i = 0; i < friends.length; i++) {
       var totalDifference = 0;
       for(var j = 0; j < friends[i].scores.length; j++) {

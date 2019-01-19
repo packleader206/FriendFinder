@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     
 	<!-- My CSS -->
-	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	
 </head>
 <body>
@@ -192,7 +192,7 @@
 		} else if($("#q1").val() === "empty" || $("#q2").val() === "empty" || $("#q3").val() === "empty" || $("#q4").val() === "empty" || $("#q5").val() === "empty" || $("#q6").val() === "empty" || $("#q7").val() === "empty" || $("#q8").val() === "empty" || $("#q9").val() === "empty" || $("#q10").val() === "empty") {
 			valid = false;
         }
-        // If user fills out all fields, valid is set to true and newuser variable created with user data
+        // If user fills out all fields, valid equals true and newuser variable is created with the user's data
 		if(valid === true) {
 			var newUser = {
 				name: $("#name").val().trim(),
@@ -211,7 +211,7 @@
 				]
             };
             
-            // Grab the URL of the website
+            // Variable defines URL of the website
             var currentURL = window.location.origin;
             
 			// Ajax post data to the friends API
